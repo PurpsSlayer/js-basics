@@ -1,0 +1,11 @@
+body{
+font-family: Arial , sans-serif;
+color: red;
+background-color: teal;
+}
+
+p.body{
+font-family: Arial, sans-serif;
+ color: black;
+}
+
